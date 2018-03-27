@@ -37,7 +37,7 @@ object pepe {
 		resultados = _bonoXresultados.tipoBono()
 		}
     
-    	method calcularNetoPorcentual(){
+     method calcularNetoPorcentual(){
 		resultados=categorizacion*(resultados/100)
 	}
     
